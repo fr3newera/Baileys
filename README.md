@@ -1,8 +1,12 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://files.catbox.moe/369pux.jpg" alt="Thumbnail" />
+  <video width="600" controls>
+    <source src="https://files.catbox.moe/1xh4qz.mp4" type="video/mp4">
+    Browser kamu tidak mendukung pemutaran video.
+  </video>
 </p>
+
 
 WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
 
