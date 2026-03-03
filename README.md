@@ -395,13 +395,20 @@ Because this library offers high stability, full features, and an actively impro
 For complete documentation, installation guides, and implementation examples, please visit the official repository and community forums. We continually update and improve this library to meet the needs of developers and users of modern WhatsApp automation solutions.
 
 ---
-> [!CAUTION]
-> ## Contact Developer
-> Here are the developer's social media links.
-> WHATSAPP: [Click Me!](https://wa.me/62882008771871)\n
-> TELEGRAM: [Click Me!](https://t.me/fr3newera)\n\n
-> TIKTOK  : [Click!](https://tiktok.com/@rendyindraperatama3)\n
-> YOUTUBE : [Click!](https://youtube.com/@fr3newera)\n
+### Contact Developer
+
+If you need any help or would like to discuss further, please contact me through the channels below:
+
+| Platform | Link |
+| :--- | :--- |
+| **WhatsApp** | [Klik di sini!](https://wa.me/62882008771871) |
+| **Telegram** | [Klik di sini!](https://t.me/fr3newera) |
+| **TikTok** | [Klik di sini!](https://tiktok.com/@rendyindraperatama3) |
+| **YouTube** | [Klik di sini!](https://youtube.com/@fr3newera) |
+
+---
+
 
 **Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!**
+
 
