@@ -86,7 +86,7 @@ await sock.sendMessage(jid, {
     eventMessage: { 
         isCanceled: false, 
         name: "Hello World", 
-        description: "yume native", 
+        description: "fr3 native", 
         location: { 
             degreesLatitude: 0, 
             degreesLongitude: 0, 
@@ -159,14 +159,14 @@ await sock.sendMessage(jid, {
                 limited_time_offer: {            
                     text: "idk hummmm?",            
                     url: "https://t.me/fr3newera",            
-                    copy_code: "yume",            
+                    copy_code: "fr3",            
                     expiration_time: Date.now() * 999          
                 },          
                 bottom_sheet: {            
                     in_thread_buttons_limit: 2,            
                     divider_indices: [1, 2, 3, 4, 5, 999],            
-                    list_title: "yume native",            
-                    button_title: "yume native"          
+                    list_title: "fr3 native",            
+                    button_title: "fr3 native"          
                 },          
                 tap_target_configuration: {            
                     title: " X ",            
