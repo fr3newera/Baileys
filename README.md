@@ -398,10 +398,10 @@ For complete documentation, installation guides, and implementation examples, pl
 > [!CAUTION]
 > ## Contact Developer
 > Here are the developer's social media links.
-> WHATSAPP: [Click Me!](https://wa.me/62882008771871)
-> TELEGRAM: [Click Me!](https://t.me/fr3newera)
->
-> TIKTOK  : [Click!](https://tiktok.com/@rendyindraperatama3)
-> YOUTUBE : [Click!](https://youtube.com/@fr3newera)
+> WHATSAPP: [Click Me!](https://wa.me/62882008771871)\n
+> TELEGRAM: [Click Me!](https://t.me/fr3newera)\n\n
+> TIKTOK  : [Click!](https://tiktok.com/@rendyindraperatama3)\n
+> YOUTUBE : [Click!](https://youtube.com/@fr3newera)\n
 
 **Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!**
+
