@@ -1,6 +1,6 @@
 {
   "name": "@fr3newera/baileys",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "WhatsApp API Modification By FR3NEWERA",
   "keywords": [
     "whatsapp",
@@ -51,7 +51,7 @@
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.11.19",
     "lodash": "^4.17.21",
-    "libsignal": "npm:@whiskeysockets/libsignal@latest",
+    "libsignal": "npm:@whiskeysockets/libsignal",
     "music-metadata": "^10.0.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^2.7.0",
