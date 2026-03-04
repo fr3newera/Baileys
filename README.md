@@ -401,14 +401,15 @@ If you need any help or would like to discuss further, please contact me through
 
 | Platform | Link |
 | :--- | :--- |
-| **WhatsApp** | [Klik di sini!](https://wa.me/62882008771871) |
-| **Telegram** | [Klik di sini!](https://t.me/fr3newera) |
-| **TikTok** | [Klik di sini!](https://tiktok.com/@rendyindraperatama3) |
-| **YouTube** | [Klik di sini!](https://youtube.com/@fr3newera) |
+| **WhatsApp** | [Click here!](https://wa.me/62882008771871) |
+| **Telegram** | [Click here!](https://t.me/fr3newera) |
+| **TikTok** | [Click here!](https://tiktok.com/@rendyindraperatama3) |
+| **YouTube** | [Click here!](https://youtube.com/@fr3newera) |
 
 ---
 
 
 **Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!**
+
 
 
